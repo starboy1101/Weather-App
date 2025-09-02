@@ -11,13 +11,11 @@ This is a **responsive weather application** built to deliver accurate weather i
 
 ---
 
-## 🖼️ App Preview
-
-### 🏠 Home Screen
-![Home Screen GIF](/Website-screenshot/Screenshot1.png)  
-
-### 🌦️ Weather Details
-![Weather Details GIF](/Website-screenshot/Screenshot2.png)   
+## 🖼️ Website Preview 
+### 🏠 Home Page 
+![Screenshot 1](/Website-screenshot/Screenshot1.png) 
+### 👤 About Section 
+![Screenshot 2](/Website-screenshot/Screenshot2.png)  
 
 ---
 
@@ -64,14 +62,6 @@ This is a **responsive weather application** built to deliver accurate weather i
 
 - I love experimenting with real-time data visualization and creative UI animations.  
 - Favorite Quote: “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-
----
-
-## 🎬 Live Demo / GIF Previews
-
-- Watch the **home screen animation**: ![Home Screen GIF](/Website-screenshot/HomeScreen.gif)  
-- See the **dynamic weather updates**: ![Weather Details GIF](/Website-screenshot/WeatherDetails.gif)  
-- Experience the **night mode**: ![Night Mode GIF](/Website-screenshot/NightMode.gif)  
 
 ---
 
