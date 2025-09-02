@@ -11,11 +11,13 @@ This is a **responsive weather application** built to deliver accurate weather i
 
 ---
 
-## 🖼️ Website Preview 
-### 🏠 Home Page 
-![Screenshot 1](/Website-screenshot/Screenshot1.png) 
-### 👤 About Section 
-![Screenshot 2](/Website-screenshot/Screenshot2.png)  
+## 🖼️ Website Preview
+
+### 🏠 Home Page
+![Screenshot 1](public/Website-screenshot/Screenshot1.png)
+
+### 👤 About Section
+![Screenshot 2](public/Website-screenshot/Screenshot2.png)
 
 ---
 
