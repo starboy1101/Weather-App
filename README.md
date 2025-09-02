@@ -1,67 +1,73 @@
-# GitHub Codespaces ♥️ React
+# 🚀 Omkar Mahabdi Portfolio
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+Welcome to my personal portfolio!  
+Explore my journey, featured projects, and the skills I bring to web development.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+---
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## 👋 About Me
 
-This project was bootstrapped for you with [Vite](https://vitejs.dev/).
+Hi, I'm Omkar Mahabdi, Passionate about creating exceptional digital experiences and solving complex problems with clean solutions.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🖼️ Website Preview
 
-### `npm start`
+### 🏠 Home Page
+![Screenshot 1](public/Website-screenshot/Screenshot%2025-09-02%154324.png)
+### 👤 About Section
+![Screenshot 2](public/Website-screenshot/Screenshot%2025-09-02%154348.png)
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+## 🛠️ Skills
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+**Frontend**
+- HTML
+- CSS
+- Tailwind CSS
+- React
+- TypeScript
+- Next.js
 
-### `npm test`
+**Backend**
+- Node.js
+- Python
+- Express.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Database & Cloud**
+- PostgreSQL
+- MongoDB
+- AWS
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌟 Featured Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Project                    | Description                        | Tech Stack    |
+|----------------------------|------------------------------------|---------------|
+| [Portfolio Website](https://omkar-mahabdi-portfolio.netlify.app/)         | Responsive portfolio website with dark mode, animations, and contact form. Built with modern web technologies.                  | React, TypeScript, Framer Motion, Tailwind CSS     |
+| [Weather Dashboard](https://omkar-weatherapp.netlify.app/)         | A responsive weather dashboard with location-based forecasts, interactive maps, and historical weather data visualization.                  | Vue.js, D3.js, OpenWeather API, Tailwind CSS     |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-## Learn More
+## 📫 Connect With Me
 
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
+- 🌐 [Portfolio Website](https://omkar-mahabdi-portfolio.netlify.app/)
+- 💼 [LinkedIn](www.linkedin.com/in/omkar-mahabdi)
+- 📧 [Email](omkarmahabdi007@gmail.com)
 
-To learn Vitest, a Vite-native testing framework, go to [Vitest documentation](https://vitest.dev/guide/)
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ✨ Fun Facts
 
-### Code Splitting
+- I love experimenting with new technologies every month and often challenge myself to build mini-projects with them.
+- Favorite Quote: ‘Code is like humor. When you have to explain it, it’s bad.’ – Cory House
 
-This section has moved here: [https://sambitsahoo.com/blog/vite-code-splitting-that-works.html](https://sambitsahoo.com/blog/vite-code-splitting-that-works.html)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
-
-### Advanced Configuration
-
-This section has moved here: [https://vitejs.dev/guide/build.html#advanced-base-options](https://vitejs.dev/guide/build.html#advanced-base-options)
-
-### Deployment
+Thank you for visiting my portfolio!  
+Feel free to explore my projects or connect with me for collaboration.
 
 This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
 
