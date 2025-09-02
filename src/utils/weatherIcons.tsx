@@ -1,12 +1,11 @@
 import { WeatherCondition } from '../types/weather';
 
-// Helper function to get the right icon from /public/Weather-Icon
 export const getWeatherIcon = (condition: WeatherCondition, size: number = 64) => {
   const baseClass =
-    "drop-shadow-xl transform transition-transform duration-300 hover:scale-105"; // floating & premium feel
+    "drop-shadow-xl transform transition-transform duration-300 hover:scale-105"; 
 
   let iconPath = "/Weather-Icon/sun.svg";
-  let finalSize = size; // default fallback
+  let finalSize = size; 
 
   switch (condition) {
     case "clear":

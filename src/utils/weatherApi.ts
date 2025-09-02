@@ -141,7 +141,6 @@ export const searchCities = async (query: string): Promise<CityOption[]> => {
     const data = await response.json();
     const lowerQuery = query.toLowerCase();
 
-    // Filter realistic matches (name longer than 2 characters and starts with query)
     const filtered: CityOption[] = data
       .filter(
         (city: any) =>
@@ -154,12 +153,11 @@ export const searchCities = async (query: string): Promise<CityOption[]> => {
         country: city.country,
       }));
 
-    // Remove duplicates by name+country
     const unique = Array.from(
       new Map(filtered.map(item => [`${item.name}-${item.country}`, item])).values()
     );
 
-    return unique.slice(0, 5); // return top 5 matches
+    return unique.slice(0, 5); 
   } catch (error) {
     console.error('Error searching cities:', error);
     return [];
