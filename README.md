@@ -14,7 +14,7 @@ Hi, I'm Omkar Mahabdi, Passionate about creating exceptional digital experiences
 ## 🖼️ Website Preview
 
 ### 🏠 Home Page
-![Screenshot 1](public/Website-screenshot/Screenshot%2025-09-02%154324.png)
+![Screenshot 1]((https://github.com/starboy1101/Weather-App/blob/main/public/Website-screenshot/Screenshot%202025-09-02%20154324.png))
 ### 👤 About Section
 ![Screenshot 2](public/Website-screenshot/Screenshot%2025-09-02%154348.png)
 
