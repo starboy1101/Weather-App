@@ -14,9 +14,9 @@ Hi, I'm Omkar Mahabdi, Passionate about creating exceptional digital experiences
 ## 🖼️ Website Preview
 
 ### 🏠 Home Page
-![Screenshot 1](/Website-screenshot/Screenshot%2025-09-02%20154324.png)
+![Screenshot 1](/Website-screenshot/Screenshot%202025-09-02%20154324.png)
 ### 👤 About Section
-![Screenshot 2](/Website-screenshot/Screenshot%2025-09-02%20154348.png)
+![Screenshot 2](/Website-screenshot/Screenshot%202025-09-02%20154348.png)
 
 ---
 
