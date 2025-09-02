@@ -1,76 +1,79 @@
-# 🚀 Omkar Mahabdi Portfolio
+# 🌤️ Weather App
 
-Welcome to my personal portfolio!  
-Explore my journey, featured projects, and the skills I bring to web development.
-
----
-
-## 👋 About Me
-
-Hi, I'm Omkar Mahabdi, Passionate about creating exceptional digital experiences and solving complex problems with clean solutions.
+Welcome to my Weather App!  
+Explore real-time weather forecasts, live animated backgrounds, and immersive user experiences.
 
 ---
 
-## 🖼️ Website Preview
+## 👋 About This App
 
-### 🏠 Home Page
-![Screenshot 1](/Website-screenshot/Screenshot%202025-09-02%20154324.png)
-### 👤 About Section
-![Screenshot 2](/Website-screenshot/Screenshot%202025-09-02%20154348.png)
+This is a **responsive weather application** built to deliver accurate weather information with a modern, interactive interface. Features include live video backgrounds, day/night mode, and real-time forecasts for any city.
 
 ---
 
-## 🛠️ Skills
+## 🖼️ App Preview
+
+### 🏠 Home Screen
+![Home Screen GIF](/Website-screenshot/Screenshot1.png)  
+
+### 🌦️ Weather Details
+![Weather Details GIF](/Website-screenshot/Screenshot2.png)   
+
+---
+
+## 🛠️ Technologies
 
 **Frontend**
-- HTML
-- CSS
-- Tailwind CSS
-- React
-- TypeScript
-- Next.js
+- React  
+- TypeScript  
+- Tailwind CSS  
+- Framer Motion  
 
-**Backend**
-- Node.js
-- Python
-- Express.js
+**APIs & Data**
+- OpenWeather API (or local JSON for development)  
+- WASAPI / Video Backgrounds  
 
-**Database & Cloud**
-- PostgreSQL
-- MongoDB
-- AWS
+**Other**
+- Responsive Design  
+- Day/Night Mode  
+- Preloaded Background Videos  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Features
 
-| Project                    | Description                        | Tech Stack    |
-|----------------------------|------------------------------------|---------------|
-| [Portfolio Website](https://omkar-mahabdi-portfolio.netlify.app/)         | Responsive portfolio website with dark mode, animations, and contact form. Built with modern web technologies.                  | React, TypeScript, Framer Motion, Tailwind CSS     |
-| [Weather Dashboard](https://omkar-weatherapp.netlify.app/)         | A responsive weather dashboard with location-based forecasts, interactive maps, and historical weather data visualization.                  | Vue.js, D3.js, OpenWeather API, Tailwind CSS     |
+| Feature | Description |
+|---------|-------------|
+| Live Animated Backgrounds | Background changes dynamically based on weather conditions with preloaded videos for smooth display. |
+| Night & Day Mode | Automatically switches to night mode after sunset. |
+| Real-Time Weather | Fetches current weather and forecast for any city. |
+| Smooth Animations | Interactive UI using Framer Motion and particle effects. |
+| Responsive Design | Works seamlessly on mobile, tablet, and desktop. |
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://omkar-mahabdi-portfolio.netlify.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/omkar-mahabdi)
-- 📧 [Email](omkarmahabdi007@gmail.com)
+- 🌐 [Portfolio Website](https://omkar-mahabdi-portfolio.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/omkar-mahabdi)  
+- 📧 [Email](mailto:omkarmahabdi007@gmail.com)  
 
 ---
 
 ## ✨ Fun Facts
 
-- I love experimenting with new technologies every month and often challenge myself to build mini-projects with them.
-- Favorite Quote: ‘Code is like humor. When you have to explain it, it’s bad.’ – Cory House
+- I love experimenting with real-time data visualization and creative UI animations.  
+- Favorite Quote: “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ---
 
-Thank you for visiting my portfolio!  
-Feel free to explore my projects or connect with me for collaboration.
+## 🎬 Live Demo / GIF Previews
 
-This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
+- Watch the **home screen animation**: ![Home Screen GIF](/Website-screenshot/HomeScreen.gif)  
+- See the **dynamic weather updates**: ![Weather Details GIF](/Website-screenshot/WeatherDetails.gif)  
+- Experience the **night mode**: ![Night Mode GIF](/Website-screenshot/NightMode.gif)  
 
-### Troubleshooting
+---
 
-This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+Thank you for checking out the Weather App!  
+Feel free to explore the project, try the live demo, or connect with me for collaboration.
